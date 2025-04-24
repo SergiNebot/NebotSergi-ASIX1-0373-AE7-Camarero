@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <!-- Entrantes (8 platos) -->
+    <plato tipo="Entrante">
+        <nombre>Bruschetta Clásica</nombre>
+        <precio>6.50</precio>
+        <descripcion>Pan tostado con tomate fresco, ajo, albahaca y aceite de oliva virgen extra</descripcion>
+        <calorias>280</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>sin gluten</categoria>
+        </ingredientes>
+    </plato>
+
+    <plato tipo="Entrante">
+        <nombre>Croquetas de Jamón Ibérico</nombre>
+        <precio>7.80</precio>
+        <descripcion>Croquetas cremosas de jamón ibérico con bechamel casera</descripcion>
+        <calorias>320</calorias>
+        <ingredientes>
+            <categoria>lacteo</categoria>
+            <categoria>carne</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Entrante">
+        <nombre>Ensalada César</nombre>
+        <precio>8.20</precio>
+        <descripcion>Lechuga romana, croutons, parmesano y salsa césar</descripcion>
+        <calorias>250</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Entrante">
+        <nombre>Patatas Bravas</nombre>
+        <precio>5.90</precio>
+        <descripcion>Patatas fritas con salsa brava y alioli</descripcion>
+        <calorias>380</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>picante</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Entrante">
+        <nombre>Gambas al Ajillo</nombre>
+        <precio>12.50</precio>
+        <descripcion>Gambas frescas al ajillo con guindilla y perejil</descripcion>
+        <calorias>290</calorias>
+        <ingredientes>
+            <categoria>marisco</categoria>
+            <categoria>picante</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Entrante">
+        <nombre>Tabla de Quesos</nombre>
+        <precio>14.00</precio>
+        <descripcion>Selección de 5 quesos artesanos con mermelada y frutos secos</descripcion>
+        <calorias>450</calorias>
+        <ingredientes>
+            <categoria>lacteo</categoria>
+ 
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Entrante">
+        <nombre>Hummus con Pan de Pita</nombre>
+        <precio>6.00</precio>
+        <descripcion>Puré de garbanzos con tahini, ajo y comino</descripcion>
+        <calorias>220</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+            <categoria>vegetariano</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Entrante">
+        <nombre>Calamares a la Romana</nombre>
+        <precio>9.50</precio>
+        <descripcion>Calamares rebozados con limón y mayonesa</descripcion>
+        <calorias>410</calorias>
+        <ingredientes>
+            <categoria>marisco</categoria>
+        </ingredientes>
+    </plato>
+
+    <!-- Platos Principales (8 platos) -->
+    <plato tipo="Principal">
+        <nombre>Risotto de Champiñones</nombre>
+        <precio>14.90</precio>
+        <descripcion>Arroz cremoso con champiñones silvestres, vino blanco y queso parmesano</descripcion>
+        <calorias>420</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Principal">
+        <nombre>Solomillo de Ternera</nombre>
+        <precio>22.50</precio>
+        <descripcion>Solomillo a la parrilla con reducción de vino tinto y guarnición de patatas asadas</descripcion>
+        <calorias>580</calorias>
+        <ingredientes>
+            <categoria>carne</categoria>
+ 
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Principal">
+        <nombre>Salmón a la Plancha</nombre>
+        <precio>18.50</precio>
+        <descripcion>Salmón fresco con verduras asadas y salsa de eneldo</descripcion>
+        <calorias>390</calorias>
+        <ingredientes>
+            <categoria>pescado</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Principal">
+        <nombre>Lasagna Bolognesa</nombre>
+        <precio>15.50</precio>
+        <descripcion>Pasta al horno con carne, bechamel y salsa de tomate</descripcion>
+        <calorias>520</calorias>
+        <ingredientes>
+            <categoria>carne</categoria>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Principal">
+        <nombre>Pollo al Curry</nombre>
+        <precio>16.80</precio>
+        <descripcion>Pollo con salsa de curry, leche de coco y arroz basmati</descripcion>
+        <calorias>480</calorias>
+        <ingredientes>
+            <categoria>carne</categoria>
+            <categoria>picante</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Principal">
+        <nombre>Paella de Mariscos</nombre>
+        <precio>24.00</precio>
+        <descripcion>Arroz con gambas, mejillones, calamares y alcachofas</descripcion>
+        <calorias>550</calorias>
+        <ingredientes>
+            <categoria>marisco</categoria>
+ 
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Principal">
+        <nombre>Hamburguesa Gourmet</nombre>
+        <precio>13.50</precio>
+        <descripcion>Carne de ternera, queso cheddar, bacon y salsa barbacoa</descripcion>
+        <calorias>650</calorias>
+        <ingredientes>
+            <categoria>carne</categoria>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Principal">
+        <nombre>Ratatouille</nombre>
+        <precio>12.50</precio>
+        <descripcion>Verduras al horno con hierbas provenzales</descripcion>
+        <calorias>280</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+            <categoria>vegetariano</categoria>
+        </ingredientes>
+    </plato>
+
+    <!-- Postres (4 platos) -->
+    <plato tipo="Postre">
+        <nombre>Tiramisú</nombre>
+        <precio>7.50</precio>
+        <descripcion>Postre italiano clásico con capas de bizcocho empapado en café y crema de mascarpone</descripcion>
+        <calorias>350</calorias>
+        <ingredientes>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Postre">
+        <nombre>Tarta de Queso</nombre>
+        <precio>6.80</precio>
+        <descripcion>Tarta cremosa de queso con base de galleta</descripcion>
+        <calorias>420</calorias>
+        <ingredientes>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Postre">
+        <nombre>Brownie con Helado</nombre>
+        <precio>7.00</precio>
+        <descripcion>Brownie de chocolate con nueces y bola de helado de vainilla</descripcion>
+        <calorias>480</calorias>
+        <ingredientes>
+            <categoria>lacteo</categoria>
+            <categoria>sin gluten</categoria>
+        </ingredientes>
+    </plato>
+    
+    <plato tipo="Postre">
+        <nombre>Mousse de Chocolate</nombre>
+        <precio>6.20</precio>
+        <descripcion>Mousse ligera de chocolate negro con virutas de chocolate</descripcion>
+        <calorias>320</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>sin gluten</categoria>
+        </ingredientes>
+    </plato>
+</menu>
